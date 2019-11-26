@@ -1,0 +1,28 @@
+{
+  "name": "installermethodo",
+  "version": "1.0.0",
+  "description": "Instalador",
+  "main": "inst.js",
+  "scripts": {
+    "start": "node inst.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseortizd/installerNode.git"
+  },
+  "keywords": [
+    "Installer",
+    "Instalador",
+    "Node"
+  ],
+  "author": "Jose Gabriel Ortiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseortizd/installerNode/issues"
+  },
+  "homepage": "https://github.com/joseortizd/installerNode#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
